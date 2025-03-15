@@ -13,14 +13,14 @@ It provides flexible and easy-to-use data structures, mainly Series (one-dimensi
 which are essential for handling structured data efficiently.
 
 ### Key Features of Pandas
-Data Structures: Provides Series and DataFrame for structured data.
-Handling Missing Data: Easy methods to detect, remove, or replace missing data.
-Data Alignment: Automatically aligns data for operations on different datasets.
-Data Aggregation: Built-in functions for grouping and summarizing data.
-Data Cleaning: Methods for handling duplicates, missing values, and type conversions.
-Data Transformation: Allows reshaping, merging, and pivoting of datasets.
-Integration: Works well with other libraries like NumPy, Matplotlib, and Scikit-learn.
-File I/O: Supports reading and writing data from/to various formats like CSV, Excel, SQL, and JSON.
+#### Data Structures: Provides Series and DataFrame for structured data.
+#### Handling Missing Data: Easy methods to detect, remove, or replace missing data.
+#### Data Alignment: Automatically aligns data for operations on different datasets.
+#### Data Aggregation: Built-in functions for grouping and summarizing data.
+#### Data Cleaning: Methods for handling duplicates, missing values, and type conversions.
+#### Data Transformation: Allows reshaping, merging, and pivoting of datasets.
+#### Integration: Works well with other libraries like NumPy, Matplotlib, and Scikit-learn.
+#### File I/O: Supports reading and writing data from/to various formats like CSV, Excel, SQL, and JSON.
 
 
 
